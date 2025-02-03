@@ -7,13 +7,13 @@
     "npm",
     "package"
   ],
-  "homepage": "https://github.com/yogithaaah/NPMDemo#readme",
+  "homepage": "https://github.com/yogithaaah/NPM-Demo-Package#readme",
   "bugs": {
-    "url": "https://github.com/yogithaaah/NPMDemo/issues"
+    "url": "https://github.com/yogithaaah/NPM-Demo-Package/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yogithaaah/NPMDemo.git"
+    "url": "git+https://github.com/yogithaaah/NPM-Demo-Package.git"
   },
   "license": "ISC",
   "author": "Yogitha",
