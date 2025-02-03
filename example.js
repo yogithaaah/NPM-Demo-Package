@@ -1,1 +1,4 @@
-console.log("This is a demo package");
+function temp(){
+    return "This is a demo package";
+}
+module.exports = temp
