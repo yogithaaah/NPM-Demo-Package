@@ -1,0 +1,25 @@
+{
+  "name": "pack5i3",
+  "version": "1.0.0",
+  "description": "NPM,package,demo",
+  "keywords": [
+    "Demo",
+    "npm",
+    "package"
+  ],
+  "homepage": "https://github.com/yogithaaah/NPMDemo#readme",
+  "bugs": {
+    "url": "https://github.com/yogithaaah/NPMDemo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogithaaah/NPMDemo.git"
+  },
+  "license": "ISC",
+  "author": "Yogitha",
+  "type": "commonjs",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
